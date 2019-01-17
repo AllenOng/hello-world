@@ -1,2 +1,5 @@
 # hello-world
-just another repository 
+
+quotes about life
+
+Believe in yourself
